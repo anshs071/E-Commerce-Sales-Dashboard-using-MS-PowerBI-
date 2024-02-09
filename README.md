@@ -12,7 +12,7 @@ The dashboard connects to two CSV data files:
  
 ## Building our Dashboard 
 
-### Started from transforming our data. 
+Started from transforming our data. 
 
 - Created a new column AOV, calculated using the formula: AOV = [Amount]/[Quantity].
 - Changed out Date column's datatype from text to date.
