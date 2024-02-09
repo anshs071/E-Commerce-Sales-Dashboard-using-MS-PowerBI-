@@ -1,6 +1,6 @@
 # E-Commerce Sales Dashboard
 
-This repository contains a Power BI dashboard analyzing e-commerce sales data from CSV files.
+This repository contains a Power BI dashboard analyzing E-Commerce Sales data from CSV files.
 
 ## Data Sources
 
